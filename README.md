@@ -1,6 +1,7 @@
 
 # SpotSafe
 
+![image](https://github.com/user-attachments/assets/f073eed6-d86e-4903-bf67-d3fbfa47d8f3)
 
 SpotSafe is a travel safety platform designed to empower women by providing safe, reliable accommodation and leisure options based on peer reviews and safety ratings. Whether you're traveling for business or leisure, SpotSafe helps you make informed decisions about your stay, ensuring your well-being is always a top priority.
 
