@@ -22,10 +22,10 @@ SpotSafe is a travel safety platform designed to empower women by providing safe
    `git clone https://github.com/ashithapallath/SpotSafe.git`
 2. Navigate into the project directory:  
    `cd SpotSafe`
-3. Install dependencies:  
-   `pip install -r requirements.txt`
+3. Compile the java files:  
+   `javac *.java`
 4. Run the application:  
-   `python app.py`
+   `java SpotSafe`
 
 
 
